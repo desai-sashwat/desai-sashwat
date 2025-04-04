@@ -6,7 +6,7 @@
 ## 👨‍🎓 Education
 **Northeastern University's College of Science, Boston, USA**  
 *Master of Science in Applied Mathematics* | Sep 2024 – Dec 2026  
-- Relevant Coursework: Probability, Introduction to Mathematical Modelling
+- Relevant Coursework: Probability | Introduction to Mathematical Modelling | Applied Statistics
 
 ## 💻 Technical Skills
 
