@@ -27,6 +27,13 @@ Jupyter Notebooks | LaTeX | VS Code | Git | CI/CD Pipelines | Test-Driven Develo
 
 ## 🔬 Research Projects
 
+### Studying the Interconnections Between the Economic Growth of Two Regions Based on Capital and Labor Flow
+*March 2025*
+- Developed a mathematical framework integrating Solow Growth Model with Malthusian Population Model to analyze economic dynamics between interconnected regions
+- Constructed a system of four differential equations capturing interplay between capital accumulation, labor force growth, and inter-regional mobility
+- Established existence of unique equilibrium points and analyzed stability properties through mathematical proof and numerical simulations
+- Identified critical threshold phenomenon in capital-induced labor movement affecting regional convergence and economic inequality
+
 ### Detection of Diabetic Retinopathy Using Deep Learning
 *Mar 2024 – Aug 2024*
 - Augmented dataset to 703 fundus images using advanced image processing techniques
@@ -43,11 +50,6 @@ Jupyter Notebooks | LaTeX | VS Code | Git | CI/CD Pipelines | Test-Driven Develo
 *Feb 2023 – May 2023*
 - Conducted comprehensive review of image processing techniques and applications
 - Published in International Journal of Innovative Science and Research Technology
-
-### Smart Security Camera System
-*Mar 2022 – Jul 2022*
-- Developed system using Raspberry Pi Zero W with secure authentication
-- Created custom 3D-printed casing using Blender and Creality Ender 3
 
 ## 📝 Publications
 
