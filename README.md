@@ -11,19 +11,19 @@
 ## 💻 Technical Skills
 
 ### Programming Languages
-Python | MATLAB | R | C++ | SQL | OpenCL | MPI | OpenMP | Scala | Fortran
+Python | MATLAB | R | C++ | SQL
 
 ### Mathematical Expertise
-Differential Equations | Fourier Analysis | Linear Algebra | Calculus | Probability | Matrix Algebra | Vector Calculus | Statistical Inference | Numerical Methods | Stochastic Processes | Time Series Analysis | Multivariate Analysis | Graph Theory | Computational Geometry | Dynamical Systems | Wavelet Analysis | Algebraic Topology | Complex Analysis
+Differential Equations | Fourier Analysis | Linear Algebra | Calculus | Probability | Matrix Algebra | Vector Calculus | Statistical Inference | Numerical Methods | Stochastic Processes | Time Series Analysis | Multivariate Analysis | Graph Theory | Complex Analysis 
 
 ### Data Analysis
-Pandas | Matplotlib | Dask | Apache Spark | PySpark | D3.js | Plotly Dash | SciPy Ecosystem | SymPy | JAX | Autograd | Statistical Hypothesis Testing | Tableau | Power BI | Alteryx
+Panda | Matplotlib | PySpark | D3.js | Plotly Dash | Data Assimilation Techniques | SciPy Ecosystem | SymPy | JAX | Autograd | Alteryx | Statistical Hypothesis Testing | Markov Chain Methods | Hierarchical Bayesian Models | Functional Data Analysis | Tableau | Power BI | Causal Inference | Big Data Technologies | Docker | Kubernetes
 
 ### Machine Learning
-Deep Learning | Regression | Classification | Optimization Techniques | Clustering | PyTorch | TensorFlow | OpenCV | Keras | Reinforcement Learning | Gaussian Processes | Neural Networks | Computer Vision
+ Deep Learning | Regression | Classification | Optimization Techniques | Clustering | PyTorch | TensorFlow | OpenCV | Keras | Reinforcement Learning | Neural Networks | Natural Language Processing | Computer Vision | Generalized Additive Models | Transfer Learning
 
 ### Tools & Practices
-Jupyter Notebooks | LaTeX | VS Code | Git | CI/CD Pipelines | Test-Driven Development | High-Performance Computing | Parallel Programming
+Jupyter Notebooks | LaTeX | VS Code | Git | Design Patterns in Scientific Computing | Test-Driven Development | Reproducible Research Practices | Experimental Design | Object-Oriented Design | Documentation Tools | High-Performance Computing | Parallel Programming | Research Paper Writing | Grant Proposal Preparation | Mentoring | Grading | Academic Assistance
 
 ## 🔬 Research Projects
 
