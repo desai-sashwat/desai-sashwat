@@ -27,8 +27,11 @@ Jupyter Notebooks | LaTeX | VS Code | Git | CI/CD Pipelines | Test-Driven Develo
 
 ## 🔬 Research Projects
 
+### Impact of the COVID-19 Pandemic on Students' Behavior and Well-being
+*Feb 2025 - April 2025*
+
 ### Studying the Interconnections Between the Economic Growth of Two Regions Based on Capital and Labor Flow
-*March 2025*
+*Oct 2024 - Dec 2024*
 - Developed a mathematical framework integrating Solow Growth Model with Malthusian Population Model to analyze economic dynamics between interconnected regions
 - Constructed a system of four differential equations capturing interplay between capital accumulation, labor force growth, and inter-regional mobility
 - Established existence of unique equilibrium points and analyzed stability properties through mathematical proof and numerical simulations
