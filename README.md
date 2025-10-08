@@ -39,14 +39,14 @@ Jupyter Notebooks | LaTeX | VS Code | Git | Design Patterns in Scientific Comput
 
 ### Detection of Diabetic Retinopathy Using Deep Learning
 *Mar 2024 – Aug 2024*
-- Augmented dataset to 703 fundus images using advanced image processing techniques
-- Developed and optimized CNN, DenseNet, and ResNet models achieving up to 97.17% testing accuracy
+-	Augmented a dataset to 703 fundus images using image processing techniques like flipping, rotation, and brightness adjustment to enhance model training.
+-	Developed and optimized deep learning models (CNN, DenseNet, ResNet), achieving up to 97.17% testing accuracy with DenseNet 169, setting a performance benchmark for Diabetic Retinopathy detection and grading.
 - Published in IEEE 3rd World Conference on Applied Intelligence and Computing (AIC)
 
 ### Cost Optimization Solutions for E-commerce Vendors
 *Apr 2022 – May 2023*
-- Developed optimization models using real-world data, reducing operational costs by 15%
-- Applied Differential Evolution algorithm, achieving 20% improvement in processing efficiency
+- Developed a cost optimization model using real-world data from Vasudhara Dairy, reducing total operational costs by 15% through cost function optimization. 
+-	Applied Differential Evolution (DE) algorithm to optimize cost functions, achieving a 20% improvement in processing efficiency and cost reduction, validated by testing with the Rosenbrock Function.
 - Published in International Journal of Innovative Science and Research Technology
 
 ### Image Processing Techniques (Review Paper)
