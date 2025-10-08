@@ -27,6 +27,9 @@ Jupyter Notebooks | LaTeX | VS Code | Git | Design Patterns in Scientific Comput
 
 ## 🔬 Research Projects
 
+### Tic-Tac-Toe Using Reinforcement Learning
+*May 2025*
+
 ### Impact of the COVID-19 Pandemic on Students' Behavior and Well-being
 *Feb 2025 - April 2025*
 
