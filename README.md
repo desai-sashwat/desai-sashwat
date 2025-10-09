@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sashwat-d/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desai.sas@northeastern.edu)
+[![Resume](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://drive.google.com/file/d/1MVYvEAOxx8v4x8BvMFtOTqLUnyw-r6rD/view?usp=share_link)
 
 ## 👨‍🎓 Education
 **Northeastern University's College of Science, Boston, USA**  
