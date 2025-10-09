@@ -32,6 +32,10 @@ Jupyter Notebooks | LaTeX | VS Code | Git | Design Patterns in Scientific Comput
 
 ### Impact of the COVID-19 Pandemic on Students' Behavior and Well-being
 *Feb 2025 - April 2025*
+- Analyzed comprehensive survey data from 1,182 students during COVID-19 lockdown examining time allocation patterns, digital behaviors, health outcomes, and online learning experiences across multiple demographic segments
+- Employed multiple statistical methodologies including chi-square tests, ANOVA, logistic regression, and correlation analysis to identify significant relationships between student wellness indicators and behavioral patterns
+- Established significant negative correlation (r = -0.16, p < 0.001) between self-study time and social media usage, revealing competition for student attention during remote learning periods
+- Identified critical protective factors for student health including physical activity time and sleep duration through regression modeling, with findings showing healthier students reported more effective time utilization patterns
 
 ### Studying the Interconnections Between the Economic Growth of Two Regions Based on Capital and Labor Flow
 *Oct 2024 - Dec 2024*
