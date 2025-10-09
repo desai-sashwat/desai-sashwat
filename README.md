@@ -29,6 +29,10 @@ Jupyter Notebooks | LaTeX | VS Code | Git | Design Patterns in Scientific Comput
 
 ### Tic-Tac-Toe Using Reinforcement Learning
 *May 2025*
+- Implemented Deep Q-Network (DQN) architecture with experience replay buffer to train an autonomous Tic-Tac-Toe agent using PyTorch, featuring neural network approximation of Q-functions for state-action value estimation
+- Developed epsilon-greedy exploration strategy with dynamic decay scheduling to balance exploration and exploitation during training, enabling the agent to discover optimal strategies through self-play
+- Engineered complete Tic-Tac-Toe environment with support for agent vs. agent and human vs. agent gameplay, including state representation, reward structure, and action validation mechanisms
+- Achieved robust performance evaluation framework testing against multiple opponent strategies including random players and minimax algorithms, with documented win rates, draw frequencies, and average moves to victory
 
 ### Impact of the COVID-19 Pandemic on Students' Behavior and Well-being
 *Feb 2025 - April 2025*
