@@ -28,6 +28,9 @@ Jupyter Notebooks | LaTeX | VS Code | Git | Design Patterns in Scientific Comput
 
 ## 🔬 Research Projects
 
+### Bach Chorale Generator Using Recurrent Neural Networks
+*Nov 2025*
+
 ### Tic-Tac-Toe Using Reinforcement Learning
 *May 2025*
 - Implemented Deep Q-Network (DQN) architecture with experience replay buffer to train an autonomous Tic-Tac-Toe agent using PyTorch, featuring neural network approximation of Q-functions for state-action value estimation
