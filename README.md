@@ -30,6 +30,10 @@ Jupyter Notebooks | LaTeX | VS Code | Git | Design Patterns in Scientific Comput
 
 ### Bach Chorale Generator Using Recurrent Neural Networks
 *Nov 2025*
+- Implemented LSTM-based sequence-to-sequence architecture with 64-unit recurrent layer to model four-part harmony in Bach chorales, utilizing TensorFlow/Keras for neural network approximation of musical patterns and voice leading rules
+- Developed sliding window data pipeline with 16-timestep sequences to process JSB Chorales dataset, featuring min-max normalization and automated train/validation/test splitting across 382 Bach compositions for robust generalization
+- Engineered autoregressive generation algorithm with temperature-controlled sampling to produce 100-timestep chorales from seed sequences, incorporating clipping mechanisms and denormalization to maintain MIDI note validity across all four voices
+- Achieved audio synthesis capability through custom sine wave generation mapping MIDI notes to frequencies at 22050 Hz sampling rate, enabling real-time playback of generated four-part harmonies with documented test loss of 0.0089 MSE and 0.0677 MAE
 
 ### Tic-Tac-Toe Using Reinforcement Learning
 *May 2025*
