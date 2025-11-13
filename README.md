@@ -28,7 +28,7 @@ Jupyter Notebooks | LaTeX | VS Code | Git | Design Patterns in Scientific Comput
 
 ## 🔬 Research Projects
 
-## Shakespearean Text Generator Using Recurrent Neural Networks
+### Shakespearean Text Generator Using Recurrent Neural Networks
 *Nov 2025*
 - Implemented word-level LSTM architecture with 512-unit recurrent layer to model Shakespearean language patterns, processing 5.7MB corpus of complete works through comprehensive text normalization pipeline removing 50+ special characters and handling UTF-8 encoding
 - Developed sliding window sequence generation with 20-word context windows and one-hot encoding for vocabulary representation, creating training dataset from processed corpus with configurable minimum word frequency thresholds for optimal vocabulary size
