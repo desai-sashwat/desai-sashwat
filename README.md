@@ -28,6 +28,13 @@ Jupyter Notebooks | LaTeX | VS Code | Git | Design Patterns in Scientific Comput
 
 ## 🔬 Research Projects
 
+## Shakespearean Text Generator Using Recurrent Neural Networks
+*Nov 2025*
+- Implemented word-level LSTM architecture with 512-unit recurrent layer to model Shakespearean language patterns, processing 5.7MB corpus of complete works through comprehensive text normalization pipeline removing 50+ special characters and handling UTF-8 encoding
+- Developed sliding window sequence generation with 20-word context windows and one-hot encoding for vocabulary representation, creating training dataset from processed corpus with configurable minimum word frequency thresholds for optimal vocabulary size
+- Engineered temperature-based sampling algorithm using multinomial distribution for controllable text generation, implementing softmax probability scaling to balance between conservative predictions and creative variations in generated Elizabethan prose
+- Achieved coherent generation of 600+ word passages maintaining Shakespearean style including archaic vocabulary, poetic phrasing, and dramatic dialogue patterns, with model checkpoint system saving best weights across 100 training epochs using categorical crossentropy loss optimization
+
 ### Bach Chorale Generator Using Recurrent Neural Networks
 *Nov 2025*
 - Implemented LSTM-based sequence-to-sequence architecture with 64-unit recurrent layer to model four-part harmony in Bach chorales, utilizing TensorFlow/Keras for neural network approximation of musical patterns and voice leading rules
