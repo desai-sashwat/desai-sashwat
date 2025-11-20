@@ -1,9 +1,9 @@
 # Sashwat Bilvesh Desai
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sashwat-d/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desai.sas@northeastern.edu)
-[![Resume](https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1dsLUKSIZ-Ca9FS-46lDeSYDFKQygBtW8/view?usp=sharing)
-[![Website](https://img.shields.io/badge/WEBSITE-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=FF6B35)](https://desai-sashwat.github.io/portfolio-website/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sashwat-d/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desai.sas@northeastern.edu)
+[![Resume](https://img.shields.io/badge/RESUME-4CAF50?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1dsLUKSIZ-Ca9FS-46lDeSYDFKQygBtW8/view?usp=sharing)
+[![Website](https://img.shields.io/badge/WEBSITE-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://desai-sashwat.github.io/portfolio-website/)
 
 ## 👨‍🎓 Education
 **Northeastern University's College of Science, Boston, USA**  
