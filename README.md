@@ -29,6 +29,13 @@ Jupyter Notebooks | LaTeX | VS Code | Git | Design Patterns in Scientific Comput
 
 ## 🔬 Research Projects
 
+### Netflix Show Clustering Using K-Means
+*Nov 2025*
+- Implemented K-means clustering algorithm to segment 8,807 Netflix titles into distinct content groups, utilizing multiple clustering validation metrics (Silhouette, Davies-Bouldin, Calinski-Harabasz) to determine optimal cluster count
+- Developed a content-based recommendation system using Euclidean distance calculations within cluster spaces, enabling personalized content suggestions based on feature similarity scores
+- Engineered 106 comprehensive features from raw Netflix metadata through multi-modal processing including TF-IDF vectorization for text descriptions, multi-label binarization for genres, and one-hot encoding for categorical variables
+- Achieved 97.17% clustering stability with clear content segmentation between international TV shows (30.4%) and mainstream movies (69.6%), validated through PCA visualization and extensive exploratory data analysis across 12 different analytical dimensions
+
 ### Shakespearean Text Generator Using Recurrent Neural Networks
 *Nov 2025*
 - Implemented word-level LSTM architecture with 512-unit recurrent layer to model Shakespearean language patterns, processing 5.7MB corpus of complete works through comprehensive text normalization pipeline removing 50+ special characters and handling UTF-8 encoding
