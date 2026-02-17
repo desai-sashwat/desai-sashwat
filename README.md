@@ -29,6 +29,17 @@ Jupyter Notebooks | LaTeX | VS Code | Git | Design Patterns in Scientific Comput
 
 ## 🔬 Research Projects
 
+### Premier League Prediction
+*Dec 2025*
+- Implemented a real-time web scraping pipeline using Selenium and BeautifulSoup to extract comprehensive Premier League statistics from FBRef, including standings, expected goals (xG), shooting, passing, defensive,
+and possession metrics for all 20 teams.
+- Developed an ensemble machine learning model combining XGBoost, LightGBM, Random Forest, AdaBoost, and Ridge Regression with weighted averaging, alongside Monte Carlo simulation (10,000 iterations) to gen-
+erate win probabilities and confidence intervals for title race predictions.
+- Engineered a multi-source feature extraction system integrating current season statistics, 5 years of historical performance data, and fixture difficulty analysis weighted by opponent strength—totaling 30+ predictive
+features across offensive, defensive, form, historical, and scheduling categories.
+- Achieved an iterative prediction framework that improves accuracy as the season progresses, enabling weekly model retraining after each gameweek with fresh data to dynamically update title race probabilities and
+relegation risk assessments.
+
 ### Netflix Show Clustering Using K-Means
 *Nov 2025*
 - Implemented K-means clustering algorithm to segment 8,807 Netflix titles into distinct content groups, utilizing multiple clustering validation metrics (Silhouette, Davies-Bouldin, Calinski-Harabasz) to determine optimal cluster count
