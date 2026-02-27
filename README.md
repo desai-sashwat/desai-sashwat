@@ -29,6 +29,13 @@ Jupyter Notebooks | LaTeX | VS Code | Git | Design Patterns in Scientific Comput
 
 ## 🔬 Research Projects
 
+### Barista Bench
+*Feb 2026*
+- Implemented a multi-provider LLM pipeline for the BaristaBench Kaggle competition, benchmarking Gemini Flash Lite, GPT-4o-mini, and GPT-4.1 across 3,500 natural language coffee orders to identify the optimal model for structured JSON extraction with agentic state tracking.
+- Developed a deterministic price validation engine that recalculates order totals from official menu rules, overriding LLM arithmetic errors and achieving near-100% pricing accuracy on 500 training samples — eliminating the top source of scoring penalties in the competition.
+- Engineered post-processing modules for item deduplication and modifier normalization, resolving structural inconsistencies in LLM outputs where duplicate entries and uncollapsed quantities caused exact-match failures against ground truth.
+- Achieved a 0.76 exact-match accuracy on the public leaderboard, parsing complex multi-item orders with mid-sentence corrections, cancellations, and filler words into strictly formatted JSON with constraint satisfaction across 23 menu items, 5 sizes, and 20 modifiers.
+
 ### Premier League Prediction
 *Dec 2025 - Feb 2026*
 - Implemented a real-time web scraping pipeline using Selenium and BeautifulSoup to extract comprehensive Premier League statistics from FBRef, including standings, expected goals (xG), shooting, passing, defensive, and possession metrics for all 20 teams.
