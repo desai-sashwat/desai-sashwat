@@ -29,6 +29,16 @@ Jupyter Notebooks | LaTeX | VS Code | Git | Design Patterns in Scientific Comput
 
 ## 🔬 Research Projects
 
+### Property Tax Shift Research — Duke University Sponsored Project
+*Jan 2026 - Apr 2026*
+- Built an end-to-end ML pipeline to test whether a revenue-neutral land-value tax shift would reduce property taxes for the majority of Cook County homeowners, training Ridge, XGBoost, and LightGBM Automated Valuation Models on 1.1M properties with 60+ features to predict market value (LightGBM R2 = 0.83,
+MAPE = 29.4%) and benchmarking against IAAO assessment standards (COD, PRD).
+- Designed a hybrid CCAO-ratio land value decomposition method after two hedonic ML approaches failed due to spatial feature dominance (site ratios collapsed to 100%); validated the final decomposition against CCAO’s published assessor ratios at a median site-to-total ratio of 20.8%, recovering the site-value signal
+required for downstream simulation.
+- Simulated three revenue-neutral tax scenarios on 672,719 homeowners and demonstrated that 57.5% would pay less under a land-only tax regime (median savings: $1,656); applied SHAP on a LightGBM winner/loser classifier and diagnosed a spurious AUC = 1.0 as data leakage from decomposition-derived features, reframing
+it as a methodological finding in the final report.
+- Extended the analysis to 5 additional U.S. metros (NYC, Philadelphia, Boston, Detroit, Washington D.C.) with auto-detected column aliases for heterogeneous open-data portals, and applied persistent homology via ripser/persim to link urban topological signatures (H0 fragmentation, H1 voids) to fiscal outcomes — the hypothesis held in dense metros (D.C.: 62.0% pay less) but failed in fragmented ones (Philadelphia: 13.4%).
+
 ### Barista Bench
 *Feb 2026*
 - Implemented a multi-provider LLM pipeline for the BaristaBench Kaggle competition, benchmarking Gemini Flash Lite, GPT-4o-mini, and GPT-4.1 across 3,500 natural language coffee orders to identify the optimal model for structured JSON extraction with agentic state tracking.
