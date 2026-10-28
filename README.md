@@ -1,8 +1,8 @@
 # Sashwat Bilvesh Desai
 
 [![LinkedIn](https://img.shields.io/badge/in_LINKEDIN-0077B5?style=for-the-badge)](https://www.linkedin.com/in/sashwat-d/)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desai.sas@northeastern.edu)
-[![Resume](https://img.shields.io/badge/RESUME-4CAF50?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1VMxg5Ooq6Ni8cUq7RvLsqKf3xWQj6UAH/view?usp=sharing)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sashwatdesai@gmail.com)
+[![Resume](https://img.shields.io/badge/RESUME-4CAF50?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1mZXx24UWrlxboNgCwimh19nl8CvuxYf7/view?usp=sharing)
 [![Website](https://img.shields.io/badge/WEBSITE-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://desai-sashwat.github.io/portfolio-website/)
 
 ## 👨‍🎓 Education
